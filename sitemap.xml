@@ -12,14 +12,8 @@
   </url>
   
   <url>
-    <loc>https://felix3210.github.io/about/about/</loc>
-    <lastmod>2017-03-14T14:43:34+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://felix3210.github.io/about/</loc>
     <lastmod>2017-03-14T14:43:34+08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -29,31 +23,8 @@
   </url>
   
   <url>
-    <loc>https://felix3210.github.io/tags/one/</loc>
-    <lastmod>2017-03-14T14:43:47+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://felix3210.github.io/post/</loc>
     <lastmod>2017-03-15T10:21:09+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://felix3210.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://felix3210.github.io/tags/</loc>
-    <lastmod>2017-03-14T14:43:47+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://felix3210.github.io/topics/topic-1/</loc>
-    <lastmod>2017-03-14T14:43:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,12 +36,6 @@
   
   <url>
     <loc>https://felix3210.github.io/topics/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://felix3210.github.io/tags/two/</loc>
-    <lastmod>2017-03-14T14:43:47+08:00</lastmod>
     <priority>0</priority>
   </url>
   
