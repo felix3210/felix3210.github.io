@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Felix&#39;s blog</title>
+    <link>https://felix3210.github.io/topics/python/index.xml</link>
+    <description>Recent content in Python on Felix&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>wi1024u@gmail.com (felix)</managingEditor>
+    <webMaster>wi1024u@gmail.com (felix)</webMaster>
+    <copyright>(c) 2017 blog.wi1024.com</copyright>
+    <atom:link href="https://felix3210.github.io/topics/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>python学习笔记（1）</title>
+      <link>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</link>
+      <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
+      <author>wi1024u@gmail.com (felix)</author>
+      <guid>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</guid>
+      <description>
+
+&lt;h3 id=&#34;数据结构&#34;&gt;数据结构&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;列表（list）&lt;/li&gt;
+&lt;li&gt;元组（tuple）&lt;/li&gt;
+&lt;li&gt;字典（dist）&lt;/li&gt;
+&lt;li&gt;SET&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;函数参数类型&#34;&gt;函数参数类型&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;默认参数&lt;/li&gt;
+&lt;li&gt;可变参数&lt;/li&gt;
+&lt;li&gt;关键字参数&lt;/li&gt;
+&lt;li&gt;尾递归（尾递归是指，在函数返回的时候，调用自身本身，并且，return语句不能包含表达式）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;高级语法&#34;&gt;高级语法&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;切片（slice）&lt;/li&gt;
+&lt;li&gt;迭代（Iteration、enumerate）&lt;/li&gt;
+&lt;li&gt;列表生成（range &amp;hellip; ）&lt;/li&gt;
+&lt;li&gt;生成器（generator）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;高阶函数-把函数作为参数传入-这样的函数称为高阶函数&#34;&gt;高阶函数 (把函数作为参数传入，这样的函数称为高阶函数)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;map/reduce&lt;/li&gt;
+&lt;li&gt;filter&lt;/li&gt;
+&lt;li&gt;sorted&lt;/li&gt;
+&lt;li&gt;函数返回值&lt;/li&gt;
+&lt;li&gt;闭包 （&lt;strong&gt;返回函数不要引用任何循环变量，或者后续会发生变化的变量&lt;/strong&gt;）&lt;/li&gt;
+&lt;li&gt;匿名函数&lt;/li&gt;
+&lt;li&gt;Decorator（装饰器）&lt;/li&gt;
+&lt;li&gt;functools（偏函数partial）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
