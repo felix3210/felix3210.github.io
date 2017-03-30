@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Felix&#39;s blog</title>
-    <link>https://felix3210.github.io/topics/python/index.xml</link>
+    <link>http://blog.wi1024.com/topics/python/index.xml</link>
     <description>Recent content in Python on Felix&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>wi1024u@gmail.com (felix)</managingEditor>
     <webMaster>wi1024u@gmail.com (felix)</webMaster>
     <copyright>(c) 2017 wi1024.com</copyright>
-    <atom:link href="https://felix3210.github.io/topics/python/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://blog.wi1024.com/topics/python/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>python学习笔记（1）</title>
-      <link>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</link>
+      <link>http://blog.wi1024.com/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</link>
       <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
       <author>wi1024u@gmail.com (felix)</author>
-      <guid>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</guid>
+      <guid>http://blog.wi1024.com/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</guid>
       <description>
 
 &lt;h3 id=&#34;数据结构&#34;&gt;数据结构&lt;/h3&gt;
