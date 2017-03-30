@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Felix&#39;s blog</title>
-    <link>https://felix3210.github.io/post/index.xml</link>
-    <description>Recent content in Posts on Felix&#39;s blog</description>
+    <title>转载 on Felix&#39;s blog</title>
+    <link>https://felix3210.github.io/tags/%E8%BD%AC%E8%BD%BD/index.xml</link>
+    <description>Recent content in 转载 on Felix&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>wi1024u@gmail.com (felix)</managingEditor>
     <webMaster>wi1024u@gmail.com (felix)</webMaster>
     <copyright>(c) 2017 wi1024.com</copyright>
-    <lastBuildDate>Thu, 30 Mar 2017 09:14:18 +0800</lastBuildDate>
-    <atom:link href="https://felix3210.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://felix3210.github.io/tags/%E8%BD%AC%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>30岁程序员的迷茫与思考</title>
@@ -95,88 +94,6 @@
 &lt;p&gt;那么作为程序员的你，还在迷茫吗？&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;转自：&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzI1MTIzMzI2MA==&amp;amp;mid=2650560866&amp;amp;idx=1&amp;amp;sn=31abce044f89ad0156f735b153aef391&amp;amp;chksm=f1feefe1c68966f7394e07716529fc9705c059182980e533ccca2cafce4e5f5f4da34c76683e&amp;amp;scene=0&amp;amp;key=d00d8310abcbc5ba40591e994ff6603ce916b3c9a5e80f8702274f388d93c3cb7a8895b51e085d05fc502dcafc28801f46a4eb43302ff7a891322d5a13ac843dead4dc321999df135732a8fbbcefa1d0&amp;amp;ascene=0&amp;amp;uin=MzUxMDM4MDM1&amp;amp;devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.4+build(16E195)&amp;amp;version=12020110&amp;amp;nettype=WIFI&amp;amp;fontScale=100&amp;amp;pass_ticket=aYgeisCXfdbx%2BLRteN5DM8saZ5XlTkMhJSO194Ec4qit2Vy%2BZv2nyNXIWErxfaSc&#34;&gt;我也 30 了，来谈谈程序员的迷茫年龄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>python学习笔记（1）</title>
-      <link>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</link>
-      <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
-      <author>wi1024u@gmail.com (felix)</author>
-      <guid>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B01/</guid>
-      <description>
-
-&lt;h3 id=&#34;数据结构&#34;&gt;数据结构&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;列表（list）&lt;/li&gt;
-&lt;li&gt;元组（tuple）&lt;/li&gt;
-&lt;li&gt;字典（dist）&lt;/li&gt;
-&lt;li&gt;SET&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;函数参数类型&#34;&gt;函数参数类型&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;默认参数&lt;/li&gt;
-&lt;li&gt;可变参数&lt;/li&gt;
-&lt;li&gt;关键字参数&lt;/li&gt;
-&lt;li&gt;尾递归（尾递归是指，在函数返回的时候，调用自身本身，并且，return语句不能包含表达式）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;高级语法&#34;&gt;高级语法&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;切片（slice）&lt;/li&gt;
-&lt;li&gt;迭代（Iteration、enumerate）&lt;/li&gt;
-&lt;li&gt;列表生成（range &amp;hellip; ）&lt;/li&gt;
-&lt;li&gt;生成器（generator）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;高阶函数-把函数作为参数传入-这样的函数称为高阶函数&#34;&gt;高阶函数 (把函数作为参数传入，这样的函数称为高阶函数)&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;map/reduce&lt;/li&gt;
-&lt;li&gt;filter&lt;/li&gt;
-&lt;li&gt;sorted&lt;/li&gt;
-&lt;li&gt;函数返回值&lt;/li&gt;
-&lt;li&gt;闭包 （&lt;strong&gt;返回函数不要引用任何循环变量，或者后续会发生变化的变量&lt;/strong&gt;）&lt;/li&gt;
-&lt;li&gt;匿名函数&lt;/li&gt;
-&lt;li&gt;Decorator（装饰器）&lt;/li&gt;
-&lt;li&gt;functools（偏函数partial）&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于程序员职业规划的思考</title>
-      <link>https://felix3210.github.io/2017/03/15/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</link>
-      <pubDate>Wed, 15 Mar 2017 10:21:09 +0800</pubDate>
-      <author>wi1024u@gmail.com (felix)</author>
-      <guid>https://felix3210.github.io/2017/03/15/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</guid>
-      <description>
-
-&lt;h3 id=&#34;第一阶段-三年&#34;&gt;第一阶段：三年&lt;/h3&gt;
-
-&lt;p&gt;我认为三年对于程序员来说是第一个门槛，这个阶段将会淘汰掉一批不适合写代码的人。这一阶段，我们走出校园，迈入社会，成为一名程序员，正式从书本 上的内容迈向真正的企业级开发。我们知道如何团队协作、如何使用项目管理工具、项目版本如何控制、我们写的代码如何测试如何在线上运行等等，积累了一定的 开发经验，也对代码有了一定深入的认识，是一个比较纯粹的Coder的阶段。&lt;/p&gt;
-
-&lt;h3 id=&#34;第二阶段-五年&#34;&gt;第二阶段：五年&lt;/h3&gt;
-
-&lt;p&gt;五年又是区分程序员的第二个门槛。有些人在三年里，除了完成工作，在空余时间基本不会研究别的东西，这些人永远就是个Coder，年纪大一些势必被 更年轻的人给顶替；有些人在三年里，除了写代码之外，还热衷于研究各种技术实现细节、看了N多好书、写一些博客、在Github上分享技术，这些人在五年 后必然具备在技术上独当一面的能力并且清楚自己未来的发展方向，从一个Coder逐步走向系统分析师或是架构师，成为项目组中不可或缺的人物。&lt;/p&gt;
-
-&lt;h3 id=&#34;第三阶段-十年&#34;&gt;第三阶段：十年&lt;/h3&gt;
-
-&lt;p&gt;十年又是另一个门槛了，转行或是继续做一名程序员就在这个节点上。如果在前几年就抱定不转行的思路并且为之努力的话，那么在十年的这个节点上，有些 人必然成长为一名对行业有着深入认识、对技术有着深入认识、能从零开始对一个产品进行分析的程序员，这样的人在公司基本担任的都是CTO、技术专家、首席 架构师等最关键的职位，这对于自己绝对是一件荣耀的事，当然老板在经济上也绝不会亏待你。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;第一部分总结一下，我认为，随着你工作年限的增长、对生活对生命认识的深入，应当不断思考三个问题：&lt;/li&gt;
-&lt;li&gt;我到底适不适合当一名程序员？&lt;/li&gt;
-&lt;li&gt;我到底应不应该一辈子以程序员为职业？&lt;/li&gt;
-&lt;li&gt;我对编程到底持有的是一种什么样的态度，是够用就好呢还是不断研究？&lt;/li&gt;
-&lt;li&gt;最终，明确自己的职业规划，对自己的规划负责并为之努力。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://felix3210.github.io/image/diagram2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
