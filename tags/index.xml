@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Felix&#39;s site</title>
-    <link>https://felix3210.github.io/tags/index.xml</link>
-    <description>Recent content in Tags on Felix&#39;s site</description>
+    <title>文章标签 on 坚韧，平和</title>
+    <link>https://felix3210.github.io/tags/</link>
+    <description>Recent content in 文章标签 on 坚韧，平和</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <managingEditor>lysongfei@gmail.com (felix)</managingEditor>
-    <webMaster>lysongfei@gmail.com (felix)</webMaster>
-    <copyright>(c) 2017 felix3210.github.io</copyright>
+    <managingEditor>wi1024u@gmail.com (felix)</managingEditor>
+    <webMaster>wi1024u@gmail.com (felix)</webMaster>
+    <copyright>(c) 2017 wi1024.com</copyright>
     <lastBuildDate>Tue, 14 Mar 2017 14:43:47 +0800</lastBuildDate>
-    <atom:link href="https://felix3210.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://felix3210.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>index</title>
-      <link>https://felix3210.github.io/tags/</link>
-      <pubDate>Tue, 14 Mar 2017 14:43:47 +0800</pubDate>
-      <author>lysongfei@gmail.com (felix)</author>
-      <guid>https://felix3210.github.io/tags/</guid>
+      <title>编程</title>
+      <link>https://felix3210.github.io/tags/%E7%BC%96%E7%A8%8B/</link>
+      <pubDate>Wed, 31 May 2017 09:44:23 +0800</pubDate>
+      <author>wi1024u@gmail.com (felix)</author>
+      <guid>https://felix3210.github.io/tags/%E7%BC%96%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>转载</title>
+      <link>https://felix3210.github.io/tags/%E8%BD%AC%E8%BD%BD/</link>
+      <pubDate>Thu, 30 Mar 2017 09:14:18 +0800</pubDate>
+      <author>wi1024u@gmail.com (felix)</author>
+      <guid>https://felix3210.github.io/tags/%E8%BD%AC%E8%BD%BD/</guid>
       <description></description>
     </item>
     
