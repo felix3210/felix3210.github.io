@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>编程 on 坚韧，平和</title>
+    <link>https://felix3210.github.io/topics/%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 编程 on 坚韧，平和</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>wi1024u@gmail.com (felix)</managingEditor>
+    <webMaster>wi1024u@gmail.com (felix)</webMaster>
+    <copyright>(c) 2017 wi1024.com</copyright>
+    <lastBuildDate>Thu, 23 Mar 2017 17:27:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://felix3210.github.io/topics/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>python学习笔记</title>
+      <link>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
+      <author>wi1024u@gmail.com (felix)</author>
+      <guid>https://felix3210.github.io/2017/03/23/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <description> 数据结构  列表（list） 元组（tuple） 字典（dist） SET  函数参数类型  默认参数 可变参数 关键字参数 尾递归（尾递归是指，在函数返回的时候，调用自身本身，并且，return语句不能包含表达式）  高级语法  切片（slice） 迭代（Iteration、enumerate） 列表生成（range &amp;hellip; ） 生成器（generator）  高阶函数 (把函数作为参数传入，这样的函数称为高阶函数)  map/reduce filter sorted 函数返回值 闭包 （返回函数不要引用任何循环变量，或者后续会发生变化的变量） 匿名函数 Decorator（装饰器） functools（偏函数partial）  </description>
+    </item>
+    
+  </channel>
+</rss>
