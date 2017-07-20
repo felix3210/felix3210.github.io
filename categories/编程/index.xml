@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 坚韧，阳光，平和</title>
-    <link>https://felix3210.github.io/post/</link>
-    <description>Recent content in Posts on 坚韧，阳光，平和</description>
+    <title>编程 on 坚韧，阳光，平和</title>
+    <link>https://felix3210.github.io/categories/%E7%BC%96%E7%A8%8B/</link>
+    <description>Recent content in 编程 on 坚韧，阳光，平和</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 31 May 2017 09:44:23 +0800</lastBuildDate>
     
-	<atom:link href="https://felix3210.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://felix3210.github.io/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,26 +18,6 @@
       
       <guid>https://felix3210.github.io/2017/05/%E4%B8%80%E4%B8%AA%E8%80%81%E7%A0%81%E5%86%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E7%90%86%E6%83%B3/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>30岁程序员的迷茫与思考</title>
-      <link>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</link>
-      <pubDate>Thu, 30 Mar 2017 09:14:18 +0800</pubDate>
-      
-      <guid>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</guid>
-      <description>&lt;p&gt;今年三十了，到了传说中程序员最应该迷茫的年龄了，那么我迷茫吗，没的说，按照某司34岁就要劝退的要求，我还有4年的程序生涯。
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>python学习笔记</title>
-      <link>https://felix3210.github.io/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
-      
-      <guid>https://felix3210.github.io/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-      <description>&lt;p&gt;python学习笔记
 &lt;/p&gt;</description>
     </item>
     
