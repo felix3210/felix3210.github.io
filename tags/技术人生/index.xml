@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>技术人生 on 坚韧，阳光，平和</title>
-    <link>https://felix3210.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</link>
+    <link>http://blog.wi1024.com/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</link>
     <description>Recent content in 技术人生 on 坚韧，阳光，平和</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 30 Mar 2017 09:14:18 +0800</lastBuildDate>
     
-	<atom:link href="https://felix3210.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.wi1024.com/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>30岁程序员的迷茫与思考</title>
-      <link>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</link>
+      <link>http://blog.wi1024.com/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</link>
       <pubDate>Thu, 30 Mar 2017 09:14:18 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</guid>
+      <guid>http://blog.wi1024.com/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</guid>
       <description>&lt;p&gt;今年三十了，到了传说中程序员最应该迷茫的年龄了，那么我迷茫吗，没的说，按照某司34岁就要劝退的要求，我还有4年的程序生涯。
 &lt;/p&gt;</description>
     </item>

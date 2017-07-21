@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 坚韧，阳光，平和</title>
-    <link>https://felix3210.github.io/tags/</link>
+    <link>http://blog.wi1024.com/tags/</link>
     <description>Recent content in Tags on 坚韧，阳光，平和</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="https://felix3210.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.wi1024.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>技术人生</title>
-      <link>https://felix3210.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</link>
+      <link>http://blog.wi1024.com/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</link>
       <pubDate>Thu, 30 Mar 2017 09:14:18 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</guid>
+      <guid>http://blog.wi1024.com/tags/%E6%8A%80%E6%9C%AF%E4%BA%BA%E7%94%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>编程</title>
-      <link>https://felix3210.github.io/tags/%E7%BC%96%E7%A8%8B/</link>
+      <link>http://blog.wi1024.com/tags/%E7%BC%96%E7%A8%8B/</link>
       <pubDate>Wed, 31 May 2017 09:44:23 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/tags/%E7%BC%96%E7%A8%8B/</guid>
+      <guid>http://blog.wi1024.com/tags/%E7%BC%96%E7%A8%8B/</guid>
       <description></description>
     </item>
     

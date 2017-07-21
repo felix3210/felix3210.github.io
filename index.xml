@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>坚韧，阳光，平和</title>
-    <link>https://felix3210.github.io/</link>
+    <link>http://blog.wi1024.com/</link>
     <description>Recent content on 坚韧，阳光，平和</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 31 May 2017 09:44:23 +0800</lastBuildDate>
     
-	<atom:link href="https://felix3210.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.wi1024.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>一个老码农的技术理想</title>
-      <link>https://felix3210.github.io/2017/05/%E4%B8%80%E4%B8%AA%E8%80%81%E7%A0%81%E5%86%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E7%90%86%E6%83%B3/</link>
+      <link>http://blog.wi1024.com/2017/05/%E4%B8%80%E4%B8%AA%E8%80%81%E7%A0%81%E5%86%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E7%90%86%E6%83%B3/</link>
       <pubDate>Wed, 31 May 2017 09:44:23 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/2017/05/%E4%B8%80%E4%B8%AA%E8%80%81%E7%A0%81%E5%86%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E7%90%86%E6%83%B3/</guid>
+      <guid>http://blog.wi1024.com/2017/05/%E4%B8%80%E4%B8%AA%E8%80%81%E7%A0%81%E5%86%9C%E7%9A%84%E6%8A%80%E6%9C%AF%E7%90%86%E6%83%B3/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>30岁程序员的迷茫与思考</title>
-      <link>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</link>
+      <link>http://blog.wi1024.com/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</link>
       <pubDate>Thu, 30 Mar 2017 09:14:18 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</guid>
+      <guid>http://blog.wi1024.com/2017/03/30%E5%B2%81%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E8%BF%B7%E8%8C%AB%E4%B8%8E%E6%80%9D%E8%80%83/</guid>
       <description>&lt;p&gt;今年三十了，到了传说中程序员最应该迷茫的年龄了，那么我迷茫吗，没的说，按照某司34岁就要劝退的要求，我还有4年的程序生涯。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>python学习笔记</title>
-      <link>https://felix3210.github.io/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+      <link>http://blog.wi1024.com/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
       <pubDate>Thu, 23 Mar 2017 17:27:26 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://blog.wi1024.com/2017/03/python%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
       <description>&lt;p&gt;python学习笔记
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>关于程序员职业规划的思考</title>
-      <link>https://felix3210.github.io/2017/03/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <link>http://blog.wi1024.com/2017/03/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</link>
       <pubDate>Wed, 15 Mar 2017 10:21:09 +0800</pubDate>
       
-      <guid>https://felix3210.github.io/2017/03/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <guid>http://blog.wi1024.com/2017/03/%E5%85%B3%E4%BA%8E%E7%A8%8B%E5%BA%8F%E5%91%98%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%E7%9A%84%E6%80%9D%E8%80%83/</guid>
       <description>&lt;p&gt;我认为三年对于程序员来说是第一个门槛，这个阶段将会淘汰掉一批不适合写代码的人。这一阶段，我们走出校园，迈入社会，成为一名程序员，正式从书本 上的内容迈向真正的企业级开发。我们知道如何团队协作、如何使用项目管理工具、项目版本如何控制、我们写的代码如何测试如何在线上运行等等，积累了一定的 开发经验，也对代码有了一定深入的认识，是一个比较纯粹的Coder的阶段。
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://felix3210.github.io/license/</link>
+      <link>http://blog.wi1024.com/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://felix3210.github.io/license/</guid>
+      <guid>http://blog.wi1024.com/license/</guid>
       <description>Simple Public License (SimPL-2.0) Preamble This Simple Public License 2.0 (SimPL-2.0 for short) is a plain language implementation of GPL 2.0. The words are different, but the goal is the same - to guarantee for all users the freedom to share and change software. If anyone wonders about the meaning of the SimPL, they should interpret it as consistent with GPL 2.0.
 Simple Public License (SimPL) 2.0 The SimPL applies to the software&amp;rsquo;s source and object code and comes with any rights that I have in it (other than trademarks).</description>
     </item>
